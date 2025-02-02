@@ -8,7 +8,7 @@ import mercedes from "../assets/Mercedes.png";
 
 const Categories = () => {
   return (
-    <div className="container max-w-7xl mx-auto px-4">
+    <div id="categories" className="container max-w-7xl mx-auto px-4">
       <h1 className="mb-10 text-center text-3xl font-bold dark:text-white">
         Categories
       </h1>
