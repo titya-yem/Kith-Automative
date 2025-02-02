@@ -18,7 +18,7 @@ const ContactFooter = () => {
 
       {/* Form Section */}
       <div
-        className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[500px] rounded-md px-4 bg-white bg-opacity-90 z-20
+        className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full md:w-[500px] rounded-md px-4 bg-white bg-opacity-90 z-20
                    lg:top-1/4 lg:left-16 lg:transform-none lg:w-1/3"
       >
         <FooterForm />
