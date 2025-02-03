@@ -4,7 +4,7 @@ import bentley from "../assets/Bently.png";
 import ferrari from "../assets/Ferrari.png";
 import mclaren from "../assets/McLaren.png";
 import rollsRoyce from "../assets/Rolls_Royse.png";
-import mercedes from "../assets/Mercedes.png";
+import mercedes from "../assets/mercedes.png";
 
 const Categories = () => {
   return (
