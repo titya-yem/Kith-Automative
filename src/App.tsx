@@ -17,7 +17,7 @@ const App = () => {
           {/* CTA Button */}
           <div className="flex justify-center lg:justify-start">
             <a
-              href="#contact"
+              href="https://formsubmit.co/el/tuvefa"
               className="inline-flex items-center justify-center px-6 py-4 text-sm md:text-base md:px-5 md:py-3 font-medium text-center text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
             >
               Contact With Us
